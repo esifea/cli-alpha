@@ -1,6 +1,15 @@
 {
-  "latest_version": "v1.0.1",
+  "latest_version": "v1.0.2",
   "versions": {
+    "v1.0.2": {
+      "notes": "Add execution timeout for beta",
+      "platforms": {
+        "linux-amd64": {
+          "url": "https://cryptolabinc.github.io/codeheaan-gpu-run/releases/v1.0.2/gpu-run-v1.0.2-linux-amd64",
+          "checksum": "faf67f460ac01f5e09bb2aaa9b293804a10d1420e135272a1bb8a2efa83b5ddb"
+        }
+      }
+    },
     "v1.0.1": {
       "notes": "Initial release",
       "platforms": {
