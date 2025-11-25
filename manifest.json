@@ -1,6 +1,15 @@
 {
-  "latest_version": "v1.0.2",
+  "latest_version": "v1.0.3",
   "versions": {
+    "v1.0.3": {
+      "notes": "Disable logstash",
+      "platforms": {
+        "linux-amd64": {
+          "url": "https://cryptolabinc.github.io/codeheaan-gpu-run/releases/v1.0.3/gpu-run-v1.0.3-linux-amd64",
+          "checksum": "1136f738e99d323f2716f1c709e96c4c6d474ed98236f55aa87f8fd571d8433e"
+        }
+      }
+    },
     "v1.0.2": {
       "notes": "Add execution timeout for beta",
       "platforms": {
