@@ -36,7 +36,7 @@
         }
       },
       "v1.0.0-rc1": {
-        "release_date": "2025-12-29T07:57:19Z",
+        "release_date": "2025-12-29T08:00:08Z",
         "release_note": "Release v1.0.0-rc1 ",
         "platforms": {
           "linux-amd64": {
@@ -48,5 +48,5 @@
       }
     }
   },
-  "signature": "nMy3CAOQiadMYapaij6DKZ2x4Qwd2yx5o5qEyCut5Nq3sS9O6r1hqS1Uy2lCry90JVCFMpKzW4wfnCvl7QqQAQ=="
+  "signature": "uLqOagfZ+FfzAW9j9p473euyGZpv5bN57Mj8m2wv8LbWIqa089Jal5POyOUTGXubVnbJ4vdLzs7O7FxFiGfHAw=="
 }
