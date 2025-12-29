@@ -1,7 +1,7 @@
 {
   "manifest": {
     "latest_version": "v1.0.0-rc1",
-    "minimum_version": "v1.0.0",
+    "minimum_version": "v1.0.0-rc1",
     "versions": {
       "v1.1.0": {
         "platforms": {
@@ -36,7 +36,7 @@
         }
       },
       "v1.0.0-rc1": {
-        "release_date": "2025-12-29T08:00:08Z",
+        "release_date": "2025-12-29T08:05:37Z",
         "release_note": "Release v1.0.0-rc1 ",
         "platforms": {
           "linux-amd64": {
@@ -48,5 +48,5 @@
       }
     }
   },
-  "signature": "uLqOagfZ+FfzAW9j9p473euyGZpv5bN57Mj8m2wv8LbWIqa089Jal5POyOUTGXubVnbJ4vdLzs7O7FxFiGfHAw=="
+  "signature": "WFfO11DVNh8Nkk0ArlV5TMfYCYoXPRFcYgv2tXGO1IKOXH4xYMo1hOWkeIWZbQ7UpsFjsJXaAEbfjh0E5u2gCw=="
 }
