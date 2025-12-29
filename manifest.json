@@ -1,6 +1,7 @@
 {
   "manifest": {
     "latest_version": "v1.0.0-rc1",
+    "minimum_version": "v1.0.0",
     "versions": {
       "v1.1.0": {
         "platforms": {
@@ -35,18 +36,17 @@
         }
       },
       "v1.0.0-rc1": {
-        "release_date": "2025-12-29T07:26:39Z",
+        "release_date": "2025-12-29T07:57:19Z",
         "release_note": "Release v1.0.0-rc1 ",
         "platforms": {
           "linux-amd64": {
             "url": "https://github.com/esifea/cli-alpha/raw/main/releases/v1.0.0-rc1/hex-v1.0.0-rc1-linux-amd64",
-            "checksum": "f8c01cf96dbe3dc3b2c2f64e7d43a90b7125cb525cc1e559c567ced128924c08",
+            "checksum": "1ced87fd8f563e3efa7f94dfb8e1100a1581f08a43c2b35a4c10dd221d5b3dbb",
             "size": 6529208
           }
         }
       }
-    },
-    "minimum_version": "v1.0.0"
+    }
   },
-  "signature": "a8+BSJ05l49tM7t41PfFnopilBI4rcvWhnG5LLXsRgxxb+SUjD6oFaBzmQDR9WXuYYvj51wL9lGfOCf4ashxAw=="
+  "signature": "nMy3CAOQiadMYapaij6DKZ2x4Qwd2yx5o5qEyCut5Nq3sS9O6r1hqS1Uy2lCry90JVCFMpKzW4wfnCvl7QqQAQ=="
 }
